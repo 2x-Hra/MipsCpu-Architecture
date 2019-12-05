@@ -43,7 +43,7 @@
 *_usage.xml
 *_xst.xrpt
 
-# iMPACT generated files
+## iMPACT generated files
 _impactbatch.log
 impact.xsl
 impact_impact.xwbt
